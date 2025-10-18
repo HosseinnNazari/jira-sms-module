@@ -26,7 +26,8 @@ The sent message is also added automatically as a **comment** to the Jira issue,
 ![SMS Dialog]<img width="1365" height="641" alt="2" src="https://github.com/user-attachments/assets/976c53e5-1f29-4882-9443-1181cc086860" />
 
 ### 3. Successful Comment Added
-![Issue Comment]<img width="1366" height="641" alt="3" src="https://github.com/user-attachments/assets/ab246e61-0a42-4f40-b1d7-b079978e2ccb" />
+![Issue Comment]<img width="1366" height="641" alt="3" src="https://github.com/user-attachments/assets/3bc61af4-041a-4bd8-bae4-4fb47c181529" />
+
 
 
 ---
