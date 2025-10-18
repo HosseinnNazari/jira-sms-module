@@ -1,4 +1,4 @@
-<img width="1366" height="690" alt="1" src="https://github.com/user-attachments/assets/de1ed86b-992e-43d5-8150-b2832bf65aef" /># 📱 Jira No-Response SMS Automation
+ 📱 Jira No-Response SMS Automation
 
 A **Jira ScriptRunner custom endpoint** that allows users to send an SMS directly from a Jira issue when the customer does not respond to calls.  
 The sent message is also added automatically as a **comment** to the Jira issue, including the **issue key**, **phone number**, **message text**, and **contact date/time**.
